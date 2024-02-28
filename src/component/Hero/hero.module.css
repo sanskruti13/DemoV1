@@ -1,0 +1,81 @@
+.heroHeading {
+    width: 100%;
+    font-size: 55px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.heroWrapper{
+    display: flex;
+} 
+
+.p {
+    width: 55%;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin-top: 30px;
+    background-color: #31A3CD;
+    border-radius: 16px;
+    width: 221px;
+    height: 49px;
+}
+
+.heroContentWrapper{
+    margin-left: 45px;
+    width: 50%;
+}
+
+.heroImageWrapper{
+    width: 50%;
+}
+
+.heroImageWrapper img{
+    width: 100%;
+}
+/* .blob2{
+    width:280px ;
+    height: 230px;
+    margin-top: 50px;
+    margin-left: 150px;
+    position: absolute;
+}
+
+.asian{
+    position: absolute;
+    margin-left: 150px;
+    width: 300px;
+    height: 300px;
+}
+
+.blob1{
+    margin-top: 170px;
+    margin-left: 400px;
+    position: absolute;
+    width: 180px;
+    height: 180px;
+}
+
+.blob{
+    width: 180px;
+    height: 180px;
+    position: absolute;
+    margin-right: 980px;
+    margin-bottom: 200px;
+}
+
+.frame2{
+    margin-top: 250px;
+    margin-left: 100px;
+    width: 100px;
+    height: 25px;
+}
+
+.frame1{
+    position: absolute;
+    width: 150px;
+    margin-left: 400px;
+} */

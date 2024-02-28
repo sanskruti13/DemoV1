@@ -1,0 +1,17 @@
+.mainContentWrapper{
+    text-align: center;
+    border-top: 2px solid rgba(174, 167, 167, 0.546);
+    padding-top: 40px;
+}
+
+.mainHeading p{
+    width: 30%;
+    margin:0 auto;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.mainPara{
+    width: 80%;
+    margin: 0 auto;
+}

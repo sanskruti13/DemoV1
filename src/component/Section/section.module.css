@@ -1,0 +1,32 @@
+.sectionCardWrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #537A8A;
+    padding: 30px 30px;
+}
+
+.sectionContentWrapper{
+    width: 30%;
+}
+
+.sectionContentWrapper p{
+    font-size:23px ;
+    color: #fff;
+    font-weight: bold;
+}
+
+.sectionImageWrapper{
+    width:60%;
+}
+
+.sectionImageWrapper img{
+    width: 100%;
+}
+
+.btn{
+    background-color: #31A3CD;
+    border-radius: 16px;
+    width: 221px;
+    height: 49px;
+}
